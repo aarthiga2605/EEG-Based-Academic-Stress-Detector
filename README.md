@@ -1,4 +1,4 @@
-# EEG-Based-Academic-Stress-Detector
+# EEG Based Academic Stress Detection
 Programming Language: MATLAB
 
 This mini project uses EEG signals from the SAM40 dataset to detect academic stress by extracting EEG-based biomarkers and classifying stress and baseline states using a Support Vector Machine (SVM).
